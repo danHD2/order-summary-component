@@ -15,6 +15,10 @@ export default {
       },
       fontFamily: {
         'RedHatDisplay': ["Red Hat Display", 'sans-serif']
+      },
+      backgroundImage: {
+        'desktopBg': "url('./pattern-background-desktop.svg')",
+        'mobileBg': "url('./pattern-background-mobile.svg')"
       }
     },
   },
